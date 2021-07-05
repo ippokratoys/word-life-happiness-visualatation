@@ -1,2 +1,2 @@
 # word-life-happiness-visualatation
-Word life happiness visualatation using Tableau
+World life happiness visualisation using Tableau
